@@ -60,7 +60,7 @@ node {
 		// 	}
 			  
         //     printf rmsg
-        //     println('Hello from a Job DSL scripts!')
+        //     println('Hello from a Job DSL script!')
         //     println(rmsg)
         // }
     }
